@@ -1,0 +1,29 @@
+what is java
+why we use java 
+programing rules 
+
+
+day 1  --->  data type 
+            
+
+day 3 ----> wraper class 
+            in built words 
+            byte and bit and uts convertion 
+
+day 4 ----> variable 
+            naming convetion rules 
+            h/w  class employee ---> 15variable
+                 vehical -- 10v 
+                 student -- 7v 
+                 lib --- 10v 
+                 hospital -- 7v 
+
+day 5 (sat) leave ----> type of variable 
+            local and global/instance 
+            type of memory 
+
+day 6 ----->    operators 
+                type 1} based on operators    
+                         arithmatic , logical, relational, 
+                     2} base on operands 
+

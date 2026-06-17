@@ -6,11 +6,11 @@ programing rules
 day 1  --->  data type 
             
 
-day 3 ----> wraper class 
+day 2 ----> wraper class 
             in built words 
             byte and bit and uts convertion 
 
-day 4 ----> variable 
+day 3 ----> variable 
             naming convetion rules 
             h/w  class employee ---> 15variable
                  vehical -- 10v 
@@ -18,12 +18,16 @@ day 4 ----> variable
                  lib --- 10v 
                  hospital -- 7v 
 
-day 5 (sat) leave ----> type of variable 
+day 4 (sat) leave ----> type of variable 
             local and global/instance 
             type of memory 
 
-day 6 ----->    operators 
+day 5 ----->    operators 
                 type 1} based on operators    
                          arithmatic , logical, relational, 
                      2} base on operands 
+
+Day 6 ----> operators
+            type 1} based on operators(Remaining)
+                    Assingment , increment /decrement 
 

@@ -39,6 +39,8 @@ public class p4 {
         --b;
         System.out.println(b);
     
+
+        
     }
 } 
 

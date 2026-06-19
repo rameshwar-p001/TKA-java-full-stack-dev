@@ -22,12 +22,15 @@ day 4 (sat) leave ----> type of variable
             local and global/instance 
             type of memory 
 
+
+//// Day 5 folder there are all day 5,6,7,8 files are there 
 day 5 ----->    operators 
                 type 1} based on operators    
                          arithmatic , logical, relational, 
                      2} base on operands 
 
-Day 6 ----> operators
+Day 6/7/8 ----> operators
             type 1} based on operators(Remaining)
-                    Assingment , increment /decrement 
+                    Assingment , increment /decrement , bit wise 
 
+Day 8   ---->  package 

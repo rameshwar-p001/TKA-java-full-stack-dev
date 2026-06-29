@@ -36,4 +36,10 @@ Day 6/7/8 ----> operators
 Day 8   ---->  package 
 
 Day 9  ---->   control flow statment 
-                1) if , if-else, ladder if else 
+                p4,p5  was pracice que was given in class 
+                1) if  (p1), 2] if-else (p2), 3] ladder if else(p3)  , 4] nested if p6, 5] nested if else  p7, 6] lader nested if else p8
+
+Day 10  --->  switch case  
+
+Day 11  --->  loop 
+                1] for p1 , 2] while p2 , 3] do while p3 

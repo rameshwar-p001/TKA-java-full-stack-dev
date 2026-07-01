@@ -71,17 +71,17 @@ package Day11;
 
 ///// print the even number using continue from 1-50
 
-public class p4 {
+// public class p4 {
 
-    public static void main(String[] args) {
-        for (int i = 1; i <= 50; i++) {
-            if (i % 2 == 1) {
-                continue;
-            }
-            System.out.println(i);
-        }
-    }
-}
+//     public static void main(String[] args) {
+//         for (int i = 1; i <= 50; i++) {
+//             if (i % 2 == 1) {
+//                 continue;
+//             }
+//             System.out.println(i);
+//         }
+//     }
+// }
 
 // //ASCII :
 // //American Standard code Information interchange
@@ -90,7 +90,7 @@ public class p4 {
 
 // public class p4 {
 //     public static void main(String[] args) {
-//         for (char i = 48; i <= 122; i++) {
+//         for (char i = 65; i <= 90; i++) {
 //             System.out.println((char) i + " -> " + i);
 //         }
 //     }

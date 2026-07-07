@@ -43,3 +43,8 @@ Day 10  --->  switch case
 
 Day 11  --->  loop 
                 1] for p1 , 2] while p2 , 3] do while p3 
+
+Day 12  ----> patterns p1-p3
+             logical que p4-p5  Remaining
+
+Day 13  ----> Scanner class

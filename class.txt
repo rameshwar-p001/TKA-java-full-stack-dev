@@ -57,4 +57,6 @@ Day 15  ----> Methods (Topics cover was remaining (Code))
                                        p3 Parameter + Return, 
                                        p4 No Parameter + Return, 
 
-                
+Day 16  ----> Constructor 
+                type 1) Parameter Constructor
+                     2) non Parameter constructor  /  

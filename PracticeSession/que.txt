@@ -1,0 +1,116 @@
+1. Student Details
+
+Create a Student class:
+
+Constructor initializes name, marks
+Method to display result (Pass/Fail)
+
+2. Rectangle Area
+Create a Rectangle class:
+Constructor takes length & breadth
+Method to calculate and print area
+
+3. Employee Salary
+Create Employee:
+Constructor â†’ name, basicSalary
+Method â†’ calculate total salary (add 20% bonus)
+
+4. Circle Operations
+Create Circle:
+Constructor â†’ radius
+Methods â†’ area & circumference
+
+5. Simple Interest
+Create Interest class:
+Constructor â†’ principal, rate, time
+Method â†’ calculate SI
+
+6. Even or Odd
+Create class:
+Constructor â†’ number
+Method â†’ check even/odd
+
+7. Temperature Converter
+Create class:
+Constructor â†’ Celsius
+Method â†’ convert to Fahrenheit
+
+
+8. Bank Account
+Create BankAccount:
+Constructor â†’ accountNumber, balance
+Methods:
+deposit()
+withdraw()
+displayBalance()
+
+9. Product Discount
+Create Product:
+Constructor â†’ price
+Method â†’ apply 10% discount if price > 1000
+
+10. Student Grade
+Create Student:
+Constructor â†’ marks
+Method â†’ return grade (A/B/C/Fail)
+
+11. Number Reverse
+Create class:
+Constructor â†’ number
+Method â†’ reverse number
+
+12. Palindrome Check
+Create class:
+Constructor â†’ number
+Method â†’ check palindrome
+
+13. Power Calculation
+Create class:
+Constructor â†’ base, exponent
+Method â†’ calculate power without using Math.pow()
+
+14. Max of Three Numbers
+Create class:
+Constructor â†’ 3 numbers
+Method â†’ find largest
+
+15. ATM Machine Simulation
+Create ATM:
+Constructor â†’ initial balance
+Methods:
+deposit
+withdraw
+check balance
+Add condition for insufficient balance
+
+16. Shopping Cart
+Create Cart:
+Constructor â†’ item price & quantity
+Method â†’ calculate total bill
+Add discount if total > 5000
+
+17. Electricity Bill
+Create ElectricityBill:
+Constructor â†’ units
+Method â†’ calculate bill:
+0â€“100 â†’ â‚¹5/unit
+101â€“200 â†’ â‚¹7/unit
+200+ â†’ â‚¹10/unit
+
+18. Fibonacci Series
+Create class:
+Constructor â†’ number of terms
+Method â†’ print Fibonacci series
+
+19. Prime Number Check
+Create class:
+Constructor â†’ number
+Method â†’ check prime
+
+20. Library System
+Create Library:
+Constructor â†’ bookName, isIssued (boolean)
+Methods:
+issueBook()
+returnBook()
+Prevent issuing if already issued

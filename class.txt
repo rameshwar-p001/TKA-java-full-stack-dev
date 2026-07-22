@@ -59,4 +59,12 @@ Day 15  ----> Methods (Topics cover was remaining (Code))
 
 Day 16  ----> Constructor 
                 type 1) Parameter Constructor
-                     2) non Parameter constructor  /  
+                     2) non Parameter constructor  
+
+Day17  ---->  Encapsulation (Getter and Setter)
+
+Day 18 --->  Polymorphism 
+                    type 1] Runtime Polymorphism
+                         2] Compiletime Polymorphism
+
+

@@ -64,7 +64,11 @@ Day 16  ----> Constructor
 Day17  ---->  Encapsulation (Getter and Setter)
 
 Day 18 --->  Polymorphism 
-                    type 1] Runtime Polymorphism
+                    type 1] Runtime Polymorphism  p1.java
                          2] Compiletime Polymorphism
 
-
+Day 19 --->  Inheritence  
+               type 1] single
+                    2] multilevel
+                    3] multiple
+                    4] 

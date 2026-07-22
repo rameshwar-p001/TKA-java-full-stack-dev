@@ -207,19 +207,19 @@ package Day18;
 // cube of a number
 
 
-// public class p1 {
+public class p1 {
 
-//     public p1(int a) {
-//         System.out.println(a*a);
-//     }
+    public p1(int a) {
+        System.out.println(a*a);
+    }
 
-//     public void p1(int b) {
-//         System.out.println(b*b*b);
-//     }
+    public void p1(int b) {
+        System.out.println(b*b*b);
+    }
 
 
-//     public static void main(String[] args) {
-//         p1 p=new p1(2);
-//         p.p1(3);
-//     }
-// }
+    public static void main(String[] args) {
+        p1 p=new p1(2);
+        p.p1(3);
+    }
+}

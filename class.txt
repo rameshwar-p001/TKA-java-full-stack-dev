@@ -68,7 +68,10 @@ Day 18 --->  Polymorphism
                          2] Compiletime Polymorphism
 
 Day 19 --->  Inheritence  
-               type 1] single
-                    2] multilevel
-                    3] multiple
-                    4] 
+               type 1] single      in A folder
+                    2] multilevel  in D folder
+                    3] multiple    no code
+                    4] HERACHICAL  in E folder
+                    5] HYBRID       on in practical 
+
+

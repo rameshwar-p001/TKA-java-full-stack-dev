@@ -1,0 +1,127 @@
+
+practise Session : 
+
+1. Method (Functions)
+Q1.
+
+Create a method calculateElectricityBill(int units):
+
+First 100 units → ₹5/unit
+Next 100 → ₹7/unit
+Above 200 → ₹10/unit
+Return total bill.
+Q2.
+
+Create a method isArmstrong(int num):
+
+Check if number is Armstrong (e.g., 153)
+Return true/false
+Call method from main() and print result
+
+ 2. Scanner
+Q3.
+
+Write a program:
+
+Take student name, 3 subject marks
+Calculate average
+Print Grade:
+A → >75
+B → 60–75
+C → 40–60
+Fail → <40
+Q4.
+
+Take input:
+
+Product name, quantity, price
+Calculate total bill
+If bill > 5000 → apply 10% discount
+Print final amount
+🔹 3. Switch Case
+Q5.
+
+Create a calculator using switch:
+
+Input: two numbers + operator (+, -, *, /)
+Perform operation using switch
+Q6.
+
+Menu-driven program:
+
+1. Check Even/Odd
+2. Check Prime
+3. Reverse Number
+Take choice using switch
+Perform selected operation
+🔹 4. If-Else
+Q7.
+
+Check loan eligibility:
+
+Salary > 25,000
+Age between 21–60
+If both true → Eligible
+Else → Not Eligible
+Q8.
+
+Find highest among 4 numbers using nested if-else (no arrays)
+
+🔹 5. Encapsulation
+Q9.
+
+Create class BankAccount:
+
+Private variables: balance
+Methods:
+deposit(amount)
+withdraw(amount) (check balance)
+getBalance()
+Perform operations in main()
+Q10.
+
+Create class Student:
+
+Private fields: name, marks
+Validate marks (0–100 only)
+If invalid → print error
+Use getter/setter
+🔹 6. Method Overloading
+Q11.
+
+Create overloaded methods area():
+
+Circle → area(double radius)
+Rectangle → area(int l, int b)
+Triangle → area(int base, int height)
+Q12.
+
+Create method add():
+
+add(int, int)
+add(int, int, int)
+add(double, double)+
+Print result for all cases
+🔹 7. Inheritance
+Q13.
+
+Create class Vehicle:
+
+method: start()
+
+Create subclass Car:
+
+method: showSpeed()
+
+Call both methods using object
+
+Q14.
+
+Create class Employee:
+
+fields: name, salary
+
+Subclass Manager:
+
+add bonus
+Calculate total salary

@@ -733,3 +733,10 @@ public class p1 {
         m.totalSalary();
     }
 }
+
+
+
+
+
+
+

@@ -74,9 +74,13 @@ Day 19 --->  Inheritence
                     3] multiple    no code
                     4] HERACHICAL  in E folder
                     5] HYBRID       on in practical 
-
+                    
 
 Day 21 ---->  Dynamic Dispatch
 
 Day 22 ---->  Super, this, Static
+
+
+
+
 
